@@ -1,5 +1,5 @@
 # Pulse
-![](Logo.png)
+![Built by Dexional](Logo.png)
 Link VsCode to Roblox Studio Easily
 
 
